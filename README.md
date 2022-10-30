@@ -30,6 +30,16 @@ We are checking your solutions semi-automatically using [nbgrader](https://nbgra
 #### Non-editable code cells
 Some of the code-cells are "non-editable" which means that you are supposed to run them, but you are not able to edit them. These Non-editable code cells should help you to test your code while you proceed. 
 
+## Grading
+
+- Problem 1: 5/5 points
+- Problem 2: 7/7 points -> Check comment from notebook about specifying CRS for the GeoDataFrame.
+- Problem 3: 8/8 points -> Check comment from notebook about using the values of a group when iterating the `groupby()` object.
+
+**Total: 20/20**
+
+Comments: Excellent work! Couple of small comments that can improve the codes a bit. 
+
  
  
  
